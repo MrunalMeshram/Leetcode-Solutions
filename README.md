@@ -11,3 +11,6 @@ organized by problem with explanations and code.
 |-------------|---------------------|----------|
 | Second Largest Element | [Read](second-largest-element/README.md) | [Code](second-largest-element/Solution.py) |
 | Rotate Array by k | [Read](Rotate-array-by-K/README.md) | [Code](Rotate-array-by-K/Solution.py) |
+| Non-Decreasing-Array | [Read](Non-Decreasing-Array/README.md) | [Code](Non-Decreasing-Array/Solution.py) |
+| Equilibrium-Index | [Read](Equilibrium-Index/README.md) | [Code](Equilibrium-Index/Solution.py) |
+

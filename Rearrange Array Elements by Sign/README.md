@@ -1,4 +1,4 @@
-Rearrange Array Elements By Sign
+  Rearrange Array Elements By Sign
 Medium
 Acceptance: 72.3%
 Given an integer array nums of 2n elements with an equal number of positive and negative elements, rearrange the elements in the array such that the modified array follows the conditions:

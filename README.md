@@ -15,6 +15,8 @@ organized by problem with explanations and code.
 | Equilibrium-Index | [Read](Equilibrium-Index/README.md) | [Code](Equilibrium-Index/Solution.py) |
 | Rearrange Array Elements by Sign | [Read](Rearrange-Array-Elements-by-Sign/README.md) | [Code](Rearrange-Array-Elements-by-Sign/Solution.py) |
 | Reverse String Word Wise | [Read](Reverse-String-Word-Wise/README.md) | [Code](Reverse-String-Word-Wise/Solution.py) |
+| String-Encoding| [Read](String-Encoding/README.md) | [Code](String-Encoding/Solution.py) |
+
 
 
 

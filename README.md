@@ -16,7 +16,9 @@ organized by problem with explanations and code.
 | Rearrange Array Elements by Sign | [Read](Rearrange-Array-Elements-by-Sign/README.md) | [Code](Rearrange-Array-Elements-by-Sign/Solution.py) |
 | Reverse String Word Wise | [Read](Reverse-String-Word-Wise/README.md) | [Code](Reverse-String-Word-Wise/Solution.py) |
 | String-Encoding| [Read](String-Encoding/README.md) | [Code](String-Encoding/Solution.py) |
+| Beautiful-String| [Read](Beautiful-String/README.md) | [Code](Beautiful-String/Solution.py) |
 | Array-Partition| [Read](Array-Partition/README.md) | [Code](Array-Partition/Solution.py) |
+
 
 
 
